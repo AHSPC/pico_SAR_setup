@@ -13,6 +13,6 @@ Up to date links to the library files used can be found here: [DRV](https://gith
 - vl53l4cd.py - Distance
 - web_dashboard.py - Web Logging
 
-TODO:
+**TODO:**
 - test.py
 - main.py: Include logging
