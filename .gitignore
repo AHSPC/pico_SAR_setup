@@ -1,0 +1,6 @@
+# Python
+.venv
+
+# VSCode, MicroPico extension
+.vscode
+.micropico
