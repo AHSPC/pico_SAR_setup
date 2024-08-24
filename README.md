@@ -9,7 +9,7 @@ Up to date links to the library files used can be found here: [DRV](https://gith
 - as7341.py - Color Sensor
 - drv8833.py - Motor Controller
 - mpu6500.py - Accelerometer and GyroScope
-- mpu9250.py - Wrapper Magnetometer(ak8963.py), Accelerometer and GyroScope(mpu6500.py)
+- mpu9250.py - Wrapper for the Magnetometer(ak8963.py), Accelerometer and GyroScope(mpu6500.py)
 - vl53l4cd.py - Distance
 - web_dashboard.py - Web Logging
 
